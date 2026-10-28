@@ -803,6 +803,7 @@ Free & open-source.
 | 📈 | [viral.app](https://viral.app) | UGC analytics platform to track TikTok, Instagram, and YouTube performance for brands and agencies. | **30% OFF** the first 3 months on monthly plans with code **viralblackfriday30**. | 2025-12-07 |
 | 📈 | [Rising Trends](https://www.risingtrends.co) | Never miss a trending niche again! (Get access to 12,000 trending markets as well trending apps, mega trends and niche reports) | **40% OFF** with code **BF2025**. | 2025-12-07 |
 | 📊 | [Fusionaly](https://fusionaly.com/) | Self-hosted web analytics. Privacy-first, first-party tracking, AI-powered insights. Install in 3 minutes with one command. Own your data forever. | **$80 OFF** with code **BFRIDAY25** | 2025-12-31 |
+| 📊 | [Airbridge](https://www.airbridge.io/en/black-friday?utm_source=github&utm_medium=deal_list&utm_campaign=black_friday_2026&utm_content=rare_big_deal) | Mobile measurement for app teams. See which ads bring paying users, not just installs | **50% off** Core Plan for your first 6 paid months with code **BLACKFRIDAY26** | 2026-11-30 |
 
 
 ### Website Builders
